@@ -1,16 +1,29 @@
 # Create Next 13 app with TypeScript, TailwindCSS, Google font, React Icons
 
 ### Replace application-name your project name
-```npx create-next-app@latest --experimental-app application-name```
+```
+npx create-next-app@latest --experimental-app application-name
+```
+
 ### Change directory to Project  
-```cd application-name```  
+```
+cd application-name
+```  
+
 ### Open VS Code
-```code .```  
+```
+code .
+```  
+
 ### Install TailwindCSS, PostCSS, Prettier, Tailwind Forms plugin, React Icons
-```npm install -D tailwindcss postcss autoprefixer prettier prettier-plugin-tailwindcss @tailwindcss/forms react-icons --save```  
+```
+npm install -D tailwindcss postcss autoprefixer prettier prettier-plugin-tailwindcss @tailwindcss/forms react-icons --save
+```  
 
 ### Autogenrate Tailwind and PostCSS config files
-```npx tailwindcss init -p```  
+```
+npx tailwindcss init -p
+```  
 
 ### Add code to tailwind.config.js and save
 ```
