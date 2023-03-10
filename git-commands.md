@@ -10,7 +10,7 @@ git add .
 
 ### Commit changes
 ```
-git commit -m "adding new files"
+git commit -am "adding new files"
 ```
 
 ### Change Branch to main and merge development into main
