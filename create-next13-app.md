@@ -128,7 +128,7 @@ export default function Home() {
 ### Remove ./public all files
 ### Create images folder
 ### Create brand folder
-### Create ./componenets folder
+### Create ./components folder
 
 ## Run app
 ```
